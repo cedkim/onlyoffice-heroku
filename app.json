@@ -1,0 +1,7 @@
+{
+  "name": "OnlyOffice for Heroku",
+  "description": "A quick way to deploy OnlyOffice to Heroku.",
+  "repository": "https://github.com/cedkim/onlyoffice-heroku",
+  "keywords": ["onlyoffice"],
+  "stack": "container"
+}
